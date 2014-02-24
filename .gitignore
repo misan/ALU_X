@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -213,3 +214,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+=======
+*.o
+applet/
+*~
+*.orig
+*.rej
+*.bak
+>>>>>>> upstream/Marlin_v1
